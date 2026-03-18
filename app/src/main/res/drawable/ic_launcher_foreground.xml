@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Wallet Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,40 H73 C75.2,40 77,41.8 77,44 V68 C77,70.2 75.2,72 73,72 H35 C32.8,72 31,70.2 31,68 V44 C31,41.8 32.8,40 35,40 Z" />
+
+    <!-- Wallet Flap -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M65,48 H77 V64 H65 C62.8,64 61,62.2 61,60 V52 C61,49.8 62.8,48 65,48 Z" />
+
+    <!-- Wallet Button -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M66,54 A2,2 0 1,0 66,58 A2,2 0 1,0 66,54 Z" />
+
+    <!-- Rising Arrow (Profit/Growth) -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M40,62 L48,54 L52,58 L60,48 L60,54 H62 V46 H54 V48 L60,48 L52,58 L48,54 L38,64 L40,62 Z" />
+
+</vector>
